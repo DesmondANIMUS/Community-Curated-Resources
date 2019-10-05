@@ -14,6 +14,7 @@ Community Curated Resources is a collection of list of selected learning materia
 - [Javascript](./Javascript.md)
 - [Elixir](./Elixir.md)
 - [Ruby](./Ruby.md)
+- [R](./R.md)
 
 #### Data Science
 
@@ -23,6 +24,10 @@ Community Curated Resources is a collection of list of selected learning materia
 #### Libraries
 
 - [Redux](./Redux.md) - A predictable state container for JavaScript Apps.
+
+#### DataSources 
+
+- [DataSets](./DataSets.md) - DataSets for Various Projects.
 
 #### Linux
 
